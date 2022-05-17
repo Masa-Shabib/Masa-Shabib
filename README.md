@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there I'm Masa 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masa-Shabib&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masa-Shabib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Masa-Shabib/Masa-Shabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
